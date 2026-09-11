@@ -24,17 +24,17 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
 
 ---
 
-## ⚡ Tech Snapshot
+## ⚡ Tech Snapshot (Aligned with Industry Resumes)
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Domain | Technologies & Frameworks (100% Resume Aligned) |
 | :--- | :--- |
-| **🤖 Generative AI & NLP** | `LangChain` `LlamaIndex` `PyTorch` `HuggingFace Transformers` `XLM-RoBERTa` `CLIP/ViT` `Vector Databases (Qdrant, FAISS)` `Prompt Engineering` `Fine-Tuning` `RAG Architectures` `Explainable AI (SHAP)` |
-| **💻 Full-Stack & Microservices** | `Python` `FastAPI` `Flask` `Django` `React` `Next.js` `Node.js` `TypeScript` `RESTful APIs` `GraphQL` `WebSockets` `Uvicorn` |
-| **📊 Big Data & ML Pipelines** | `Apache Airflow` `Apache Kafka` `Apache Spark` `XGBoost` `LightGBM` `Scikit-Learn` `Pandas` `NumPy` `Feature Store (Feast)` `PostgreSQL` `Redis` |
-| **☁️ Cloud, MLOps & Infra** | `AWS (EKS, S3, SageMaker)` `Docker` `Kubernetes` `Helm` `MLflow` `Great Expectations` `Prometheus` `Grafana` `Terraform` `CI/CD (GitHub Actions)` |
-| **🏛️ Core Architecture** | `Distributed Systems` `Microservices` `Event-Driven Architecture` `Zero-Downtime Blue/Green Deployments` `High-Throughput Streaming` `API Gateways` |
+| **🤖 Generative AI & NLP** | `LangChain` `LlamaIndex` `PyTorch` `TensorFlow` `HuggingFace Transformers` `XLM-RoBERTa` `CLIP/ViT` `Vector Databases (Pinecone, Weaviate, Qdrant, FAISS)` `Prompt Engineering` `Fine-Tuning` `RAG Architectures` `Explainable AI (SHAP / XAI)` |
+| **💻 Full-Stack Engineering** | `Python` `Django` `Django REST Framework` `Flask` `FastAPI` `React` `Redux` `Next.js` `Node.js` `Express.js` `TypeScript` `RESTful APIs` `GraphQL` `WebSockets` `Tailwind CSS` |
+| **📊 Big Data & ML Pipelines** | `Apache Spark` `Apache Kafka` `Apache Airflow` `Delta Lake` `XGBoost` `LightGBM` `Scikit-Learn` `Pandas` `NumPy` `Feature Store (Feast)` `PostgreSQL` `Redis` `MongoDB` `Cassandra` `Snowflake` `Neo4j` |
+| **☁️ Cloud, MLOps & Infra** | `AWS (SageMaker, EKS, Glue, S3, Athena, Kinesis, Lambda)` `GCP (Vertex AI, BigQuery)` `Azure (ML Studio)` `Docker` `Kubernetes` `Kubeflow` `Helm` `MLflow` `Terraform` `Great Expectations` `Prometheus` `Grafana` `Datadog` `CI/CD (GitHub Actions, Jenkins)` |
+| **🏛️ Architecture & Governance** | `Distributed Systems` `Microservices Architecture` `Event-Driven Architecture` `Zero-Downtime Blue/Green Deployments` `Real-Time Streaming Inference` `Responsible AI Governance (SOC 2, HIPAA, GDPR)` |
 
 </div>
 
@@ -45,6 +45,7 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
 <div align="center">
   <!-- AI / ML -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LlamaIndex-6A1B9A?style=flat-square&logo=diagram&logoColor=white" alt="LlamaIndex" />
@@ -52,25 +53,37 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
   <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <br/>
-  <!-- Backend & Data -->
+  <!-- Backend & Frontend -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br/>
+  <!-- Big Data & Databases -->
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
   <br/>
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Kubeflow-0066CC?style=flat-square&logo=kubeflow&logoColor=white" alt="Kubeflow" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
 </div>
 
