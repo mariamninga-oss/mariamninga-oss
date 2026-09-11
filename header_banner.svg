@@ -45,27 +45,31 @@
   </g>
 
   <!-- Title Text -->
-  <text x="450" y="82" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#ffffff" letter-spacing="2">
+  <text x="450" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" fill="#ffffff" letter-spacing="2">
     MARYAM NOOR
   </text>
 
   <!-- Role Subtitle with Gradient -->
-  <text x="450" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="url(#accent)" letter-spacing="1">
+  <text x="450" y="116" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="url(#accent)" letter-spacing="1">
     Senior AI/ML &amp; Full-Stack Engineer
   </text>
 
-  <!-- Specialization Pills -->
+  <!-- Specialization Pills Aligned with about_me.txt -->
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" text-anchor="middle">
-    <rect x="130" y="146" width="145" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
-    <text x="202" y="164" fill="#38bdf8">Generative AI &amp; RAG</text>
+    <!-- Pill 1: Generative AI & RAG -->
+    <rect x="75" y="146" width="165" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="157" y="164" fill="#38bdf8">Generative AI &amp; RAG</text>
 
-    <rect x="290" y="146" width="155" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
-    <text x="367" y="164" fill="#818cf8">Cloud-Native MLOps</text>
+    <!-- Pill 2: Cloud & MLOps -->
+    <rect x="255" y="146" width="160" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="335" y="164" fill="#818cf8">Cloud-Native MLOps</text>
 
-    <rect x="460" y="146" width="165" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
-    <text x="542" y="164" fill="#a78bfa">Distributed Streaming</text>
+    <!-- Pill 3: Distributed Systems -->
+    <rect x="430" y="146" width="160" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="510" y="164" fill="#a78bfa">Distributed Systems</text>
 
-    <rect x="640" y="146" width="130" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
-    <text x="705" y="164" fill="#34d399">Full-Stack APIs</text>
+    <!-- Pill 4: Full-Stack Engineering -->
+    <rect x="605" y="146" width="180" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="695" y="164" fill="#34d399">Full-Stack Engineering</text>
   </g>
 </svg>
