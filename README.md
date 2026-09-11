@@ -12,29 +12,57 @@
   <a href="https://github.com/mariamninga-oss">
     <img src="https://img.shields.io/badge/GitHub-mariamninga--oss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Baltimore%2C%20MD%20%2F%20Remote-475569?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 <br/>
 
 ### 👋 Hi, I'm Maryam Noor
 
-I am a **Senior AI/ML & Full-Stack Engineer** specializing in the design, architecture, and deployment of intelligent, high-throughput, production-grade distributed systems.
+I am a **Senior AI/ML & Full-Stack Engineer** with 6+ years of experience architecting and deploying high-throughput distributed systems, production generative AI / RAG platforms, enterprise machine learning pipelines, and cloud-native infrastructure.
 
-My expertise bridges the gap between **Generative AI / Large Language Models**, **Advanced Machine Learning**, **Scalable Data Pipelines**, and **Cloud-Native MLOps**. Over the past 6+ years across enterprise software environments (**Force Cloud LLC**, **LiveRamp**, and **Perforce Software**), I have engineered end-to-end AI applications, real-time streaming fraud detection engines, credit scoring scorecards, and multi-cloud infrastructure handling millions of daily events with sub-millisecond latencies.
+My technical career spans enterprise engagements at **Force Cloud LLC**, **LiveRamp**, and **Perforce Software**, where I have led engineering teams from initial system design through production rollout — delivering sub-millisecond fraud detection engines, credit underwriting scorecards, automated feature stores, and multimodal content intelligence platforms handling hundreds of millions of daily events.
 
 ---
 
-## ⚡ Tech Snapshot (Aligned with Industry Resumes)
+## 🎓 Education & Industry Certifications
 
 <div align="center">
 
-| Domain | Technologies & Frameworks (100% Resume Aligned) |
+| Credential | Institution / Authority | Focus Area |
+| :--- | :--- | :--- |
+| **Master of Science in Computer Science (MS CS)** | National University of Computer and Emerging Sciences | Distributed Systems & Machine Learning |
+| **AWS Certified Solutions Architect – Professional** | Amazon Web Services (AWS) | Multi-Region Enterprise Cloud Architecture |
+| **AWS Certified Machine Learning – Specialty** | Amazon Web Services (AWS) | Production ML Pipelines & Model Serving |
+| **Google Professional Cloud Architect** | Google Cloud (GCP) | Scalable Multi-Cloud Infrastructure |
+| **Microsoft Certified: Azure Solutions Architect Expert** | Microsoft Azure | High-Availability Cloud Services |
+| **Certified Kubernetes Application Developer (CKAD)** | Cloud Native Computing Foundation (CNCF) | Container Orchestration & Microservices |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SA Pro" />
+  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS ML" />
+  <img src="https://img.shields.io/badge/Google-Professional%20Cloud%20Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP PCA" />
+  <img src="https://img.shields.io/badge/Azure-Solutions%20Architect%20Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Expert" />
+  <img src="https://img.shields.io/badge/CNCF-CKAD%20Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKAD" />
+</div>
+
+---
+
+## ⚡ Technical Core Competencies (100% Resume Synchronized)
+
+<div align="center">
+
+| Domain | Technologies, Frameworks & Tools |
 | :--- | :--- |
-| **🤖 Generative AI & NLP** | `LangChain` `LlamaIndex` `PyTorch` `TensorFlow` `HuggingFace Transformers` `XLM-RoBERTa` `CLIP/ViT` `Vector Databases (Pinecone, Weaviate, Qdrant, FAISS)` `Prompt Engineering` `Fine-Tuning` `RAG Architectures` `Explainable AI (SHAP / XAI)` |
-| **💻 Full-Stack Engineering** | `Python` `Django` `Django REST Framework` `Flask` `FastAPI` `React` `Redux` `Next.js` `Node.js` `Express.js` `TypeScript` `RESTful APIs` `GraphQL` `WebSockets` `Tailwind CSS` |
-| **📊 Big Data & ML Pipelines** | `Apache Spark` `Apache Kafka` `Apache Airflow` `Delta Lake` `XGBoost` `LightGBM` `Scikit-Learn` `Pandas` `NumPy` `Feature Store (Feast)` `PostgreSQL` `Redis` `MongoDB` `Cassandra` `Snowflake` `Neo4j` |
+| **🤖 Generative AI & NLP** | `LangChain` `LlamaIndex` `PyTorch` `TensorFlow` `Hugging Face Transformers` `XLM-RoBERTa` `CLIP/ViT` `Vector Databases (Pinecone, Weaviate, Qdrant, FAISS)` `Prompt Engineering` `Fine-Tuning (LoRA/PEFT)` `RAG Architectures` `Explainable AI (SHAP, XAI)` |
+| **💻 Full-Stack Engineering** | `Python` `Django` `Django REST Framework` `Flask` `FastAPI` `React` `Redux` `Next.js` `Node.js` `Express.js` `TypeScript` `RESTful APIs` `GraphQL` `WebSockets` `Tailwind CSS` `Chart.js` |
+| **📊 Big Data & ML Pipelines** | `Apache Spark` `Apache Kafka` `Apache Airflow` `Delta Lake` `XGBoost` `LightGBM` `Scikit-Learn` `Pandas` `NumPy` `Feature Store (Feast)` `PostgreSQL` `Redis` `MongoDB` `Cassandra` `Snowflake` `Redshift` `Neo4j` `dbt` |
 | **☁️ Cloud, MLOps & Infra** | `AWS (SageMaker, EKS, Glue, S3, Athena, Kinesis, Lambda)` `GCP (Vertex AI, BigQuery)` `Azure (ML Studio)` `Docker` `Kubernetes` `Kubeflow` `Helm` `MLflow` `Terraform` `Great Expectations` `Prometheus` `Grafana` `Datadog` `CI/CD (GitHub Actions, Jenkins)` |
-| **🏛️ Architecture & Governance** | `Distributed Systems` `Microservices Architecture` `Event-Driven Architecture` `Zero-Downtime Blue/Green Deployments` `Real-Time Streaming Inference` `Responsible AI Governance (SOC 2, HIPAA, GDPR)` |
+| **🏛️ Architecture & Governance** | `Distributed Systems` `Microservices Architecture` `Event-Driven Architecture` `Zero-Downtime Blue/Green Deployments` `Real-Time Streaming Inference` `Responsible AI Governance (SOC 2, HIPAA, GDPR, KYC/AML)` |
 
 </div>
 
@@ -53,7 +81,7 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
   <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <br/>
-  <!-- Backend & Frontend -->
+  <!-- Full-Stack & APIs -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
@@ -72,7 +100,7 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
   <br/>
-  <!-- Cloud & DevOps -->
+  <!-- Cloud & MLOps -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -93,7 +121,7 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Total%20Production%20Commits-2%2C530%2B-2563eb?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Historical%20Span-2019%20--%202026-059669?style=for-the-badge&logo=clock&logoColor=white" alt="Span" />
+  <img src="https://img.shields.io/badge/Active%20Engineering%20Span-2019%20--%202026-059669?style=for-the-badge&logo=clock&logoColor=white" alt="Span" />
   <img src="https://img.shields.io/badge/Production%20SLA-99.99%25%20Uptime-7c3aed?style=for-the-badge&logo=kubernetes&logoColor=white" alt="SLA" />
   <img src="https://img.shields.io/badge/Streaming%20P99%20Latency-%3C%2012ms-dc2626?style=for-the-badge&logo=fastapi&logoColor=white" alt="Latency" />
 </div>
@@ -102,14 +130,14 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
 
 <div align="center">
 
-| Operational Area | Metric Benchmark | Production Architecture Highlights |
+| Production Domain | Performance Metric | Enterprise Architecture Implementation |
 | :--- | :---: | :--- |
-| **Real-Time Fraud Screening** | `< 12ms P99` | Dual-tier XGBoost & LightGBM ensemble with Redis rolling velocity windows |
-| **Underwriting & Risk Scoring** | `< 50ms P99` | Weight-of-Evidence scorecard decisioning with React executive console |
+| **Real-Time Fraud Screening** | `< 12ms P99` | Stacked XGBoost & LightGBM ensemble with Redis rolling velocity windows |
+| **Underwriting & Risk Scoring** | `< 50ms P99` | Weight-of-Evidence scorecard decisioning engine with React underwriting console |
 | **Enterprise RAG Retrieval** | `< 450ms E2E` | Hybrid HNSW vector indexing (Qdrant), dense cross-encoders & RRF reranking |
 | **Customer LTV & Churn** | `89% ROC-AUC` | Multi-stage Airflow DAG orchestration, automated drift alerts & PostgreSQL |
 | **Multimodal Content Audit** | `37% Precision ↑` | Zero-shot Vision-Language CLIP embeddings & ViT policy risk classifiers |
-| **Active Learning Annotation** | `65% Time Saved` | Margin uncertainty sampling loop with SpaCy intent classification |
+| **Active Learning Annotation** | `65% Time Saved` | Margin uncertainty sampling active loop with SpaCy intent classification |
 | **Retail Demand Forecasting** | `28% Out-of-Stock ↓`| Hierarchical time-series lag decomposition across 1,200+ SKU clusters |
 | **Cloud-Native MLOps Platform** | `Zero-Downtime` | Automated blue/green Canary rollouts, Feast feature store & Helm on EKS |
 
@@ -117,7 +145,7 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
 
 ---
 
-## 🏆 Featured Production Architectures
+## 🏆 Featured Enterprise Architectures (Portfolio Systems)
 
 ### 🚀 1. Cloud-Native MLOps & Distributed Infrastructure
 
@@ -171,14 +199,28 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
 
 ---
 
-## 💼 Career History
+## 💼 Enterprise Career Journey
 
-- **Force Cloud LLC** | *Senior AI / MLOps Engineer* (2021 – Present)
-  - Designed enterprise RAG knowledge retrieval systems, feature stores, and automated Kubernetes MLOps pipelines.
-- **LiveRamp** | *Machine Learning Engineer* (2020 – 2021)
-  - Built low-latency fraud detection engines, active learning pipelines, and automated credit scoring systems.
-- **Perforce Software** | *Data Scientist / Machine Learning Engineer* (2019 – 2020)
-  - Developed end-to-end Airflow pipelines for customer churn/LTV and multilingual NLP Transformer streaming services.
+### **Force Cloud LLC** | *Senior AI/ML & MLOps Engineer* (2021 – Present)
+*Baltimore, MD*
+- Architected and shipped multi-cloud ML infrastructure across AWS, GCP, and Azure for Fortune 500 client engagements.
+- Built enterprise RAG knowledge assistant with LangChain, vector search, and dynamic prompt evaluation reducing internal ticket resolution times by **48%**.
+- Deployed multimodal content intelligence service (PyTorch, CLIP, ViT), cutting content moderation latency by **42%**.
+- Designed and maintained Neo4j entity resolution service for insurance fraud detection, saving **$1.8M** annually in fraudulent payouts.
+
+### **LiveRamp** | *Machine Learning Engineer & Data Scientist* (2020 – 2021)
+*Baltimore, MD*
+- Designed real-time ML inference architecture processing **500M+ daily events** with sub-30ms peak latency on AWS SageMaker and Kinesis.
+- Engineered fraud risk prediction models improving fraud recall by **37%** and cutting false alerts by **26%** using XGBoost and SHAP explainability.
+- Architected automated credit scoring microservice delivering sub-50ms underwriting decisions with auto-scaling under Kubernetes (EKS).
+- Implemented active-learning human-in-the-loop annotation loop reducing manual labeling costs by **50%**.
+
+### **Perforce Software** | *Data Scientist & Machine Learning Engineer* (2019 – 2020)
+*Remote / Minneapolis, MN*
+- Developed customer churn and lifetime value (LTV) prediction pipelines across **4M+ customer records**, reducing churn-related revenue loss by **18%**.
+- Built end-to-end multi-language sentiment analysis NLP streaming service processing **500K+ daily records** at **91% classification accuracy**.
+- Designed and automated daily Airflow ETL pipelines, reducing manual data preparation interventions by **95%**.
+- Engineered retail demand forecasting models with gradient boosting and time-series lag decomposition, reducing overstock incidents by **30%**.
 
 ---
 
@@ -192,6 +234,6 @@ My expertise bridges the gap between **Generative AI / Large Language Models**, 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mariamninga-oss">
-    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-mariamninga--oss-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
