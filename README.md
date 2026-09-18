@@ -31,7 +31,7 @@ My technical career spans enterprise engagements at **Force Cloud LLC**, **LiveR
 
 | Credential | Institution / Authority | Focus Area |
 | :--- | :--- | :--- |
-| **Master of Science in Computer Science (MS CS)** | National University of Computer and Emerging Sciences | Distributed Systems & Machine Learning |
+| **Bachelor of Science** | COMSATS Institute of Information and Technology | — |
 | **AWS Certified Solutions Architect – Professional** | Amazon Web Services (AWS) | Multi-Region Enterprise Cloud Architecture |
 | **AWS Certified Machine Learning – Specialty** | Amazon Web Services (AWS) | Production ML Pipelines & Model Serving |
 | **Google Professional Cloud Architect** | Google Cloud (GCP) | Scalable Multi-Cloud Infrastructure |
